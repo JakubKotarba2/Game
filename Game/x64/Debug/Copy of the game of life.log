@@ -1,0 +1,9 @@
+﻿  App.cpp
+  Game.cpp
+C:\Users\kotar\Desktop\c++\set\Copy of the game of life\Copy of the game of life\Game.cpp(49,35): warning C4390: ';': empty controlled statement found; is this the intent?
+  dinosaur.cpp
+C:\Users\kotar\Desktop\c++\set\Copy of the game of life\Copy of the game of life\dinosaur.cpp(7,43): warning C4390: ';': empty controlled statement found; is this the intent?
+  Entity.cpp
+  MovementOfObject.cpp
+  Generating Code...
+  Copy of the game of life.vcxproj -> C:\Users\kotar\Desktop\c++\set\Copy of the game of life\x64\Debug\Copy of the game of life.exe
